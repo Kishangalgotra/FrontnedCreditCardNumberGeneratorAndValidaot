@@ -1,0 +1,1 @@
+start cmd.exe /k "../frontend/call npm install ../frontend/call npm start" pause
